@@ -2,6 +2,17 @@
 
 A small audio-restoration proof of concept for reducing shellac-record crackle and surface noise while retaining some of the recording's vintage character. It combines synthetic noise generation with a compact waveform denoiser trained on clean music.
 
+## Restoration Downloads
+
+The v5 restorations have produced encouraging listening results: they substantially reduce crackle while keeping some of the original vintage character. A few crackles remain, and each recording has its own transfer artifacts.
+
+| Recording | MP3 download | Lossless WAV |
+| --- | --- | --- |
+| Victor 1098, v5 | [Download MP3](cusb_victor_1098_01_bve32867_01d_denoised_v5.mp3) | [Download WAV](cusb_victor_1098_01_bve32867_01d_denoised_v5.wav) |
+| Victor 19647, v5 | [Download MP3](cusb_victor_19647_01_b32119_01d_denoised.mp3) | [Download WAV](cusb_victor_19647_01_b32119_01d_denoised.wav) |
+
+The MP3s are compact listening copies; the WAVs preserve the processed audio without MP3 encoding. The original source recordings remain unchanged.
+
 The current best listening candidate is neural model v5. The models are experimental: the training corpus contains only six clean jazz tracks, and synthetic noise cannot fully represent every real record transfer. Compare results by listening, especially for musical detail that may be mistaken for noise.
 
 ## Project Contents
