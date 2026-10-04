@@ -7,4 +7,7 @@ __pycache__/
 .DS_Store
 
 # Generated training and restoration artifacts
-outputs/
+outputs/*
+!outputs/neural_model_v5/
+outputs/neural_model_v5/*
+!outputs/neural_model_v5/denoiser.pt
