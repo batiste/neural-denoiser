@@ -9,7 +9,11 @@ import numpy as np
 
 
 SAMPLE_RATE = 22050
-TARGET_RECORDINGS = {"sound.mp3", "cusb_victor_19647_01_b32119_01d.mp3"}
+TARGET_RECORDINGS = {
+    "sound.mp3",
+    "cusb_victor_1098_01_bve32867_01d.mp3",
+    "cusb_victor_19647_01_b32119_01d.mp3",
+}
 NOISE_PROFILES = {
     "light-crackle": (500, 8000, 25, 180, 0.25, 5, 1.4),
     "soft-surface": (450, 6500, 18, 160, 0.35, 8, 1.8),
