@@ -8,7 +8,7 @@ The v5 restorations have produced encouraging listening results: they substantia
 
 | Recording | Original / source | MP3 download | Lossless WAV |
 | --- | --- | --- | --- |
-| Brunswick 2913, source copy | [Download WAV source](cusb_br_2913_01_e15936e15938_00d.wav) | [Download MP3 copy](cusb_br_2913_01_e15936e15938_00d.mp3) | [Download WAV](cusb_br_2913_01_e15936e15938_00d.wav) |
+| Brunswick 2913, denoised | [Download original](cusb_br_2913_01_e15936e15938_00d.mp3) | [Download restored MP3](cusb_br_2913_01_e15936e15938_00d_denoised.mp3) | [Download WAV](cusb_br_2913_01_e15936e15938_00d_denoised.wav) |
 | Victor 1098, v5 | [Download original](cusb_victor_1098_01_bve32867_01d.mp3) | [Download restored MP3](cusb_victor_1098_01_bve32867_01d_denoised_v5.mp3) | [Download WAV](cusb_victor_1098_01_bve32867_01d_denoised_v5.wav) |
 | Victor 19647, v5 | [Download original](cusb_victor_19647_01_b32119_01d.mp3) | [Download restored MP3](cusb_victor_19647_01_b32119_01d_denoised.mp3) | [Download WAV](cusb_victor_19647_01_b32119_01d_denoised.wav) |
 
