@@ -1,4 +1,4 @@
-# Sound Clean
+# Neural Audio Restoration
 
 A small audio-restoration proof of concept for reducing shellac-record crackle and surface noise while retaining some of the recording's vintage character. It combines synthetic noise generation with a compact waveform denoiser trained on clean music.
 
